@@ -3,3 +3,4 @@
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
+https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.18/mhrv-rs-android-arm64-v8a-v1.9.18.apk

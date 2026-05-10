@@ -157,30 +157,24 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="ircfspace--telemirror"></div>
+<div id="iampedii--whitedns"></div>
 
-### ircfspace--teleMirror
+### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/ircfspace/teleMirror) – [<code><small>v3.2.0</small></code>](https://github.com/ircfspace/teleMirror/releases/tag/v3.2.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.0.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `tele-mirror-linux-arm64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.001) |
-| `tele-mirror-linux-arm64.tar.gz (part 2 of 2)` | 22.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-arm64.tar.gz.002) |
-| `tele-mirror-linux-x64.tar.gz (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.001) |
-| `tele-mirror-linux-x64.tar.gz (part 2 of 2)` | 22.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-linux-x64.tar.gz.002) |
-| `tele-mirror-mac-arm64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.001) |
-| `tele-mirror-mac-arm64.dmg (part 2 of 2)` | 13.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.dmg.002) |
-| `tele-mirror-mac-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.001) |
-| `tele-mirror-mac-arm64.zip (part 2 of 2)` | 20.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-arm64.zip.002) |
-| `tele-mirror-mac-x64.dmg (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.001) |
-| `tele-mirror-mac-x64.dmg (part 2 of 2)` | 16.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.dmg.002) |
-| `tele-mirror-mac-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.001) |
-| `tele-mirror-mac-x64.zip (part 2 of 2)` | 25.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-mac-x64.zip.002) |
-| `tele-mirror-win-arm64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.001) |
-| `tele-mirror-win-arm64.zip (part 2 of 2)` | 44.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-arm64.zip.002) |
-| `tele-mirror-win-ia32.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.001) |
-| `tele-mirror-win-ia32.zip (part 2 of 2)` | 27.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-ia32.zip.002) |
-| `tele-mirror-win-x64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.001) |
-| `tele-mirror-win-x64.zip (part 2 of 2)` | 51.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ircfspace/teleMirror/tele-mirror-win-x64.zip.002) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
+| `WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk) |
+| `WhiteDNS-1.0.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk` | 4.8 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.0.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.0.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk) |
+| `WhiteDNS-1.0.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-universal.apk.idsig) |
+| `WhiteDNS-1.0.0-x86.apk` | 5.4 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk) |
+| `WhiteDNS-1.0.0-x86.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86.apk.idsig) |
+| `WhiteDNS-1.0.0-x86_64.apk` | 5.2 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk) |
+| `WhiteDNS-1.0.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.0.0-x86_64.apk.idsig) |
 <!-- RELEASES_END -->

@@ -157,16 +157,24 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="ajavadinezhad--zyrln"></div>
+<div id="iampedii--whitedns"></div>
 
-### ajavadinezhad--zyrln
+### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/ajavadinezhad/zyrln) – [<code><small>v1.4.0</small></code>](https://github.com/ajavadinezhad/zyrln/releases/tag/v1.4.0)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.2.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `zyrln-1.4.0.apk` | 22.9 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-1.4.0.apk) |
-| `zyrln-linux-amd64` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-linux-amd64) |
-| `zyrln-relay` | 8.8 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-relay) |
-| `zyrln-windows-amd64.exe` | 9.6 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/ajavadinezhad/zyrln/zyrln-windows-amd64.exe) |
+| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
+| `WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md) |
+| `WhiteDNS-1.2.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk) |
+| `WhiteDNS-1.2.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.2.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.2.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.2.0-universal.apk` | 16.3 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk) |
+| `WhiteDNS-1.2.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk.idsig) |
+| `WhiteDNS-1.2.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk) |
+| `WhiteDNS-1.2.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk.idsig) |
+| `WhiteDNS-1.2.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk) |
+| `WhiteDNS-1.2.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk.idsig) |
 <!-- RELEASES_END -->

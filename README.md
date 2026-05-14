@@ -157,24 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="iampedii--whitedns"></div>
+<div id="shirokhorshid--shirokhorshid-android"></div>
 
-### iampedii--WhiteDNS
+### shirokhorshid--shirokhorshid-android
 
-🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.2.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.2.0)
+🔗 [source](https://github.com/shirokhorshid/shirokhorshid-android) – [<code><small>v2026.05.14-8a28d0c</small></code>](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.05.14-8a28d0c)
 
 | File | Size | Download |
 |------|------|----------|
-| `SHA256SUMS.txt` | 1 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/SHA256SUMS.txt) |
-| `WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md` | 3 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-THIRD_PARTY_NOTICES.md) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk) |
-| `WhiteDNS-1.2.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-arm64-v8a.apk.idsig) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk) |
-| `WhiteDNS-1.2.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-armeabi-v7a.apk.idsig) |
-| `WhiteDNS-1.2.0-universal.apk` | 16.3 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk) |
-| `WhiteDNS-1.2.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-universal.apk.idsig) |
-| `WhiteDNS-1.2.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk) |
-| `WhiteDNS-1.2.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86.apk.idsig) |
-| `WhiteDNS-1.2.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk) |
-| `WhiteDNS-1.2.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.2.0-x86_64.apk.idsig) |
+| `ShirOKhorshid-2026.05.14.apk` | 23.9 MB | [⬇️ Download](https://raw.githubusercontent.com/javad2018/LatestReleaseMirror/main/releases/shirokhorshid/shirokhorshid-android/ShirOKhorshid-2026.05.14.apk) |
 <!-- RELEASES_END -->

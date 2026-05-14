@@ -6,5 +6,6 @@
 #https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.9.18/mhrv-rs-android-arm64-v8a-v1.9.18.apk
 #therealaleph/MasterHttpRelayVPN-RUST
 #ircfspace/teleMirror
-iampedii/WhiteDNS
+#iampedii/WhiteDNS
 #ajavadinezhad/zyrln
+shirokhorshid/shirokhorshid-android
